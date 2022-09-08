@@ -1,0 +1,47 @@
+
+{
+    margin: 0;
+    padding: 0;
+}
+
+.nav
+{ 
+    background-color: #A19C9B;
+    width: auto;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: right;
+       
+}
+
+.nav a
+ {
+    padding-right: 4px;
+    font-size: smaller;
+ }  
+
+.main
+ {
+   width: auto;
+   height: 300px;
+   margin-bottom: 10px;
+ } 
+
+.main p
+{
+   margin-left: 250px;
+
+}
+
+#footer
+{ 
+    background-color: #A19C9B;
+    width: auto;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+       
+}
+
